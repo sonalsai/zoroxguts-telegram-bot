@@ -1,0 +1,18 @@
+{
+  "name": "zoroxguts-telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "Sonal Sai",
+  "license": "ISC",
+  "description": "A Telegram bot for anime lovers — search and explore anime, movies, and TV series directly from Telegram.",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
